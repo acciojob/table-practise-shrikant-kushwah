@@ -10,7 +10,9 @@ table{
 th,tr,td{
 	border:1px solid black;
 }
-
+thead{
+	font-weight:900
+}
 
 
 
